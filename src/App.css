@@ -1,0 +1,35 @@
+.app {
+  background: #00bcd4;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  border-radius: 0;
+}
+
+.form {
+  display: block;
+  background: #ebebeb;
+  min-width: 450px;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 16px 25px 0 rgba(0,0,0,0.14), 0 12px 14px 0 rgba(0,0,0,0.12), 0 11px 14px -6px rgba(0,0,0,0.2);
+}
+
+.input {
+  background: #d1d1d1;
+  color: #333;
+}
+
+.help {
+  background: #d1d1d1;
+  font-size: 2rem;
+  text-align: center;
+}
+
